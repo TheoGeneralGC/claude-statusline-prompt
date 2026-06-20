@@ -35,7 +35,7 @@ call happens once per prompt, detached, and never blocks you.
 ## Install
 
 ```bash
-git clone https://github.com/<you>/claude-statusline-prompt
+git clone https://github.com/TheoGeneralGC/claude-statusline-prompt
 cd claude-statusline-prompt
 ./install.sh
 ```
