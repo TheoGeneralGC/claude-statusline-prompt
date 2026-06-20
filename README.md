@@ -7,8 +7,8 @@ ccstatusline, claude-powerline, a custom script, or nothing) — it **wraps** it
 and adds one extra line:
 
 ```
-[Opus]  OneTrip  git:(main)   Context ▓▓▓░░ 38%   ✓ Bash ×12 | ✓ Edit ×3
-> Deploy OneTrip frontend and backend to onetripsearch.com/115
+[Opus]  div-center  git:(main)   Context ▓▓▓░░ 38%   ✓ Bash ×12 | ✓ Edit ×3
+> How do I center a div?
 ```
 
 That last green line is the gist of your current prompt. For long prompts it
